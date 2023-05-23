@@ -1,0 +1,64 @@
+#index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <link rel="stylesheet" href="index.css">
+        <style>
+            body{
+                background-image: url("bg2.jpg");
+                
+                background-size: cover;
+            }
+        </style>
+        
+        <div>
+        <img src="todo.gif" alt="todolist" class="center">
+        <style>
+            img{
+                height: 450px;
+                width: 450px;
+                border-radius: 100%;
+                background-color: #f0f0f0;
+                box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+                display: block;
+                margin-right: auto;
+                margin-left: auto;
+                position: relative;
+                top:50px;
+                
+            }
+
+        </style>
+        </div>
+        <div1>
+            <button>
+                <a href="MAKEYOURLIST.html" class="center">Make Your List</a>
+            </button>
+        <style>
+            button{
+                position:sticky;
+            	 padding: 10px;
+	             background-color:beige;
+	             border-radius:50px;
+                 background-color: #f0f0f0;
+                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	            display:block;
+                margin-right: auto;
+                margin-left: auto;
+                margin-top: 75px;
+                bottom:75px;
+                left:46%;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+                
+            }
+        </style>
+
+        </div1>
+
+    </body>
+</html>
